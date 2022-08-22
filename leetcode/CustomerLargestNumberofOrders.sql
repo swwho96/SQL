@@ -1,6 +1,6 @@
 '''
 1. customer_number 출력
-2. order_number가 가장 큰 customer_number를 출력
+2. order를 가장 많이 한 customer_number를 출력
 '''
 
 SELECT customer_number
